@@ -1,0 +1,9 @@
+[submodule "footpedal-designer"]
+	path = footpedal-designer
+	url = https://github.com/skrekhere/footpedal-designer.git
+[submodule "footpedal"]
+	path = footpedal
+	url = https://github.com/skrekhere/footpedal.git
+[submodule "footpedal-bindings"]
+	path = footpedal-bindings
+	url = https://github.com/skrekhere/footpedal-bindings.git

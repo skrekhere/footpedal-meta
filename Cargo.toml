@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+	"footpedal",
+	"footpedal-designer",
+	"footpedal-bindings",
+	]
